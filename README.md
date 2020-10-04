@@ -1,0 +1,2 @@
+# WindowsAPI_saitou
+DirectXのライブラリー
