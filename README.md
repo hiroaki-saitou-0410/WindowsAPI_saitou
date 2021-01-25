@@ -1,2 +1,2 @@
-# WindowsAPI_saitou
+# 3Dプログラミング後期課題
 DirectXのライブラリー
